@@ -1,0 +1,15 @@
+{
+  "name": "poloniex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "push_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Chan",
+  "license": "ISC",
+  "dependencies": {
+    "autobahn": "^0.9.9",
+    "cron": "^1.1.0"
+  }
+}
